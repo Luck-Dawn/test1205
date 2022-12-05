@@ -1,2 +1,3 @@
 mac: 创建文件,xxxxx
-windows:新加内容
+windows:新加内容.mac:xxx
+mac:xxx
